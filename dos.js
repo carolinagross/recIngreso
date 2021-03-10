@@ -26,7 +26,7 @@ let mayorcantidadnoquimica;
 
 
 
-    for (let i = 0 ; i <2; i++ ){
+    for (let i = 0 ; i <500; i++ ){
 
         nombre = prompt ("ingrese su nombre");
  carrera = prompt("ingrese su carrera");
